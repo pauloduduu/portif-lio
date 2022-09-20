@@ -54,7 +54,10 @@ body{
 
 .home{
     display: flex;
-    background: url(fotos/banner001.png) no-repeat right;
+    background: url(fotos/dd.png) no-repeat right;
+    background-position-x: 92%;
+    background-size: 33%;
+    background-position-y: 60%;
     height: 100vh;
     color: #ffffff;
     min-height: 500px;
